@@ -3,7 +3,7 @@ title: "로지텍 G29에 콤비스위치 설치 - Installing a combination switc
 category: Combination Switch
 ---
 
-<span style="color:red">I'm not good at English. But, to share my informations, globally, I'm writing togeter English and Korean which is my first language.</span>
+<span style="color:red">I'm not good at English. But, to share my informations, globally, I'm writing in English and Korean which is my first language, together.</span>
 
 저는 게임을 좋아하는 사람입니다. 그리고, 운전도 좋아합니다. 저 같은 사람에게는 유로트럭 시뮬레이터2 같은 드라이빙 게임은 저렴하게 대형 트레일러를 체험해 볼 수 있는 기회가 되죠.
 
