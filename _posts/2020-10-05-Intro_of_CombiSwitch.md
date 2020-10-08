@@ -29,7 +29,7 @@ In the internet, there are many videos and posts for DIY combination switch cont
 하지만, 보통 완성작에 대한 구동내용이 많고 제작과정을 자세하게 다루는 영상, 포스팅을 발견하기가 어려워 제작과정 같은 것을 모두와 공유해 보고자 팔자에도 없는 블로그 만들기를 하게 되었습니다.
 
 But, almost, they are not for processes making the controllers but for working the finished controllers.
-So, I decided make a blog to share the processes making what I have done.
+So, I decided make a blog to share the processes making what I have not done.
 
 블로그가 완전 처음이라 헤매는 것이 많을 것이기에, 혹시라도 이 카테고리가 자리잡기 전에 보시는 분들이 계시다면 양해를 부탁 드립니다.
 
