@@ -34,4 +34,4 @@ So, I decided make a blog to share the processes making what I have not done.
 블로그가 완전 처음이라 헤매는 것이 많을 것이기에, 혹시라도 이 카테고리가 자리잡기 전에 보시는 분들이 계시다면 양해를 부탁 드립니다.
 
 Because this is my first blog, I expect that I will wander about making this blog.
-I ask for your understanding if any of you are viewing this category before it is established.
+I ask for your understanding for any of you are viewing this category before it is established.
