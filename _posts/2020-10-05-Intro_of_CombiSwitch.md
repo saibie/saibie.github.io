@@ -1,6 +1,6 @@
 ---
 title: "로지텍 G29에 콤비스위치 설치 - Installing a combination switch on Logitech G29"
-category: Combination Switch
+categories: [Combination Switch]
 ---
 
 <span style="color:red">I'm not good at English. But, to share my informations, globally, I'm writing in English and Korean which is my first language, together.</span>
