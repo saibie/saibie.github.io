@@ -1,5 +1,5 @@
 ---
-
+layout : default
 ---
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
@@ -9,3 +9,5 @@
     {% endfor %}
   </ul>
 {% endfor %}
+
+{{site.categories}}
