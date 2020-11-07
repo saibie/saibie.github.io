@@ -1,5 +1,5 @@
 ---
----
+<!-- ---
 <ul class="entry-meta inline-list">
   {% for cat in site.categories %}{% unless forloop.last %}
     {% capture this_word %}{{ cat | strip_newlines }}{% endcapture %}
@@ -8,7 +8,7 @@
     <span class="count">{{ site.categories[this_word].size }}</span>
     </a></li>
   {% endunless %}{% endfor %}
-</ul>
+</ul> -->
 
 <!-- {% for cat in site.categories %}{% unless forloop.last %}
   {% capture this_word %}{{ cat | strip_newlines }}{% endcapture %}
@@ -26,4 +26,4 @@
 
 <!-- {% for item in site.categories %}{{item}}{% endfor %} -->
 
-site.categories[0] : site.categories["Combination Switch"]
+{{site.categories[0]}} : {{site.categories["Combination Switch"]}}
