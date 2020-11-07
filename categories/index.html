@@ -10,7 +10,7 @@
   {% endunless %}{% endfor %}
 </ul>
 
-{% for cat in site.categories %}{% unless forloop.last %}
+<!-- {% for cat in site.categories %}{% unless forloop.last %}
   {% capture this_word %}{{ cat | strip_newlines }}{% endcapture %}
   <article>
 	  <a href="{{site.url}}/categories/{{this_word}}"><h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2></a>
@@ -19,8 +19,8 @@
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>
-    </article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+    </article><!-- /.hentry --> -->
+<!-- {% endunless %}{% endfor %} -->
 
 {{site.categories}} : {{site.categories.size}} : {{categories_list}} : {{site.categories[0]}} : {{site.categories[1]}}
 
