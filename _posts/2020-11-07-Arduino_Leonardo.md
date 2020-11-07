@@ -19,7 +19,6 @@ categories: [Combination Switch]
 [G마켓 콤비스위치 검색](http://browse.gmarket.co.kr/search?keyword=%EC%BD%A4%EB%B9%84%EC%8A%A4%EC%9C%84%EC%B9%98)
 
 위 링크를 보시면 생각보다 많은 곳에서 적당한 가격에 콤비스위치를 팔고 있습니다.
-
 전 아무 것도 모르니까 평범하게 YF소나타 콤비스위치를 구입하였습니다.
 
 ### 전기 신호 전송 장치
