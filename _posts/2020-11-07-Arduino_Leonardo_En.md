@@ -10,7 +10,7 @@ In order to proceed with this project, you need preparations that can perform th
 1. A combination switch hardware
 1. A device that send the electric signal of the combination switch to our computer
 
-#### A combination switch hardware
+### A combination switch hardware
 
 In many posts about installing combination switches in Korea,
 they are posted that "I picked the combination switch up in a junkyard."
@@ -22,7 +22,7 @@ So, I decided to buy an used combination switch.
 Honestly, the above link is for Koreans.
 I just want to show where I bought the switch.
 
-#### A device that send the electric signal
+### A device that send the electric signal
 
 If we search "making / installing ETS2 combination switch" in Google,
 there are many posts and videos for working combination switches.
