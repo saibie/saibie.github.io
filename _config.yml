@@ -15,7 +15,6 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-category_list            : [Combination Switch]
 locale                   : "ko-KO"
 title                    : "IDK I'm either a Ph.D., or an unskilled developer"
 title_separator          : "-"
