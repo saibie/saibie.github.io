@@ -1,29 +1,7 @@
 ---
 ---
-<!-- <ul class="entry-meta inline-list">
-  {% for cat in site.categories %}{% unless forloop.last %}
-    {% capture this_word %}{{ cat | strip_newlines }}{% endcapture %}
-  	<li><a href="#{{ this_word }}" class="tag">
-    <span class="term">{{ this_word }}</span>
-    <span class="count">{{ site.categories[this_word].size }}</span>
-    </a></li>
-  {% endunless %}{% endfor %}
-</ul> -->
-
-<!-- {% for cat in site.categories %}{% unless forloop.last %}
-  {% capture this_word %}{{ cat | strip_newlines }}{% endcapture %}
-  <article>
-	  <a href="{{site.url}}/categories/{{this_word}}"><h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2></a>
-    <ul>
-    {% for post in site.categories[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
-		</ul>
-    </article><!-- /.hentry --> -->
-<!-- {% endunless %}{% endfor %} -->
-
-<!-- {{site.categories}} : {{site.categories.size}} : {{categories_list}} : {{site.categories[0]}} : {{site.categories[1]}} -->
-
-<!-- {% for item in site.categories %}{{item}}{% endfor %} -->
-
-{{site.categories[0]}} : {{site.categories["Combination Switch"]}}
+<ul>
+    {% for link in site.data.navigation %}
+    <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+</ul>
